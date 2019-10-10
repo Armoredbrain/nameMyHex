@@ -5,9 +5,15 @@
 >* DSN
 >* USER
 >* PASSWORD
->>define('DSN', 'mysql:host=yourHost;dbname=yourDBName');
-  define('USER', 'username');
-  define('PASS', 'yourDBPassword');
+>>define('DSN', 'mysql:host=yourHost;dbname=yourDBName');  
+  define('USER', 'username');  
+  define('PASS', 'yourDBPassword');  
   
 2. Import script.sql :
 >* mysql - u 'username' -p < script.sql
+
+3. Launch your host :rocket:
+
+4. Go to website
+
+5. Start naming colors :tada:
