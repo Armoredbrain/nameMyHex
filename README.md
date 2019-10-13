@@ -17,3 +17,5 @@
 4. Go to website
 
 5. Start naming colors :tada:
+
+6. Share your HEX names on your branch with SQL import
