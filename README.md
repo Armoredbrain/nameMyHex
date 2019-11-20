@@ -1,6 +1,6 @@
 # NAME MY HEX
 
-##installation
+## installation
 1. Create connect.php with :  
 >* DSN
 >* USER
